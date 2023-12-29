@@ -1,1 +1,2 @@
-slove solution 37
+<<<<<<< main
+#Leetcode challenge
